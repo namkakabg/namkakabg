@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=namkakabg&theme=vue-dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=namkakabg&show_icons=true&theme=vue-dark&count_private=true)
